@@ -6,8 +6,6 @@
 Paper here -> PsycoLLM: [Enhancing LLM for Psychological Understanding and Evaluation](https://arxiv.org/pdf/2407.05721)
 
 ## 最近更新
--[2025.8.12]  我们公开了本文所构建的Benchmark。该Benchmark基于中国官方的心理咨询师考试构建，包括案例分析、职业道德和理论知识。
-
 -[2024.11.4]  PsycoLLM: Enhancing LLM for Psychological Understanding and Evaluation 被 IEEE Transactions on Computational Social Systems 接收
 
 -[2024.9.22] 我们的中文心理大模型PsycoLLM正式发布！如有需要下载模型，请点击此处：[MACLAB-HFUT/PsycoLLM](https://huggingface.co/MACLAB-HFUT/PsycoLLM)
